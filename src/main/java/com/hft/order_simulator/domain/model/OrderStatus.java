@@ -1,4 +1,7 @@
 package com.hft.order_simulator.domain.model;
 
-public class OrderStatus {
+public enum OrderStatus {
+    PENDING,
+    EXECUTED,
+    CANCELLED
 }

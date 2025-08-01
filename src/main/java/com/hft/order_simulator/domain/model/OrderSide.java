@@ -1,5 +1,6 @@
 package com.hft.order_simulator.domain.model;
 
-public class OrderSide {
-
+public enum OrderSide {
+    BUY,
+    SELL
 }
