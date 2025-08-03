@@ -14,14 +14,14 @@ It simulates order creation, retrieval, cancellation, and execution without usin
 - Spring Validation
 - Lombok
 - SpringDoc OpenAPI (Swagger UI)
-- In-memory storage using ConcurrentHashMap
+- In-memory storage using HashMap
 
 ---
 
 ## 🚀 How to Run This Project (Step-by-Step from Scratch)
 
 1. Make sure you have installed:
-    - Java JDK 21 or higher
+    - Java JDK 21
     - Maven 3.9+
     - IntelliJ IDEA (Community or Ultimate)
 
